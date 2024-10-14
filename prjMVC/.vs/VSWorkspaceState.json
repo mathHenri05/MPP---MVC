@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Repository",
+    "\\Repository\\Interfaces",
+    "\\Repository\\TagHelpers",
+    "\\Views",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Repository\\TagHelpers\\EmailTagHelper.cs",
+  "PreviewInSolutionExplorer": false
+}
